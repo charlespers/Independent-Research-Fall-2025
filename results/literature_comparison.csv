@@ -1,0 +1,5 @@
+Parameter,Simulated,Literature,Reference
+Threshold Current (Ith),17.35 mA,17.35 mA (from parameters),Model parameters
+Slope Efficiency (dE²/dI),1.22e+01,~0.5-2.0 mW/mA (typical range),Typical semiconductor laser
+Photon Lifetime (τp),2.02 ps,~2 ps (typical),Typical semiconductor laser
+Carrier Lifetime (τe),1.54 ns,~1.5 ns (typical),Typical semiconductor laser
